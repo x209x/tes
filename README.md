@@ -1,1 +1,1 @@
-# tes
+# Perintah/Command
