@@ -21,4 +21,4 @@ git clone https://github.com/x209x/tes
 
 cd tes
 
-python x.py
+python run.py
